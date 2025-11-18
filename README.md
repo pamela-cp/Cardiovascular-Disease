@@ -1,5 +1,8 @@
 # Portfolio-Optimization
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/pamela-cp/Portfolio-Optimization/blob/main/notebooks/MV_Performance.ipynb)
+
 Mean-Variance | Normalised Semi-Variance | Minimum-Information MV | Rolling Windows
 
 This project compares three portfolio optimisation frameworks implemented over rolling estimation windows to evaluate their performance, stability, and allocation behaviour under realistic constraints.
