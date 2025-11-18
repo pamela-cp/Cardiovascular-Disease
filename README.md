@@ -7,7 +7,7 @@ Mean-Variance | Normalised Semi-Variance | Minimum-Information MV | Rolling Wind
 
 This project compares three portfolio optimisation frameworks implemented over rolling estimation windows to evaluate their performance, stability, and allocation behaviour under realistic constraints.
 
-**🔍 Optimisation Frameworks Included:**
+**Optimisation Frameworks**
 
 1️⃣ Mean-Variance (MV)
 
@@ -33,7 +33,7 @@ A robust framework that controls estimation error by minimising the information 
 - Improves out-of-sample stability
 - Ideal for noisy return environments
 
-**🧠 Methodology**
+**Methodology**
 
 1. Load six Fama–French portfolios (Size × Book-to-Market)
 2. Clean & normalise the dataset
@@ -51,7 +51,7 @@ A robust framework that controls estimation error by minimising the information 
 
 5. Compare strategies in a unified results dashboard
 
-**📊 Key Results (Summary)**
+**Key Results (Summary)**
 
 - MIMV delivers the most stable allocations and lowest turnover
 - NSMV protects better during negative market regimes
